@@ -1,2 +1,2 @@
-# seaviaggiare-ticket-client
+# client-biglietteria-seaviaggiare
 Release della biglietteria seaviaggiare
